@@ -62,4 +62,3 @@ spec:
                             serviceName: stefano-solo-microservice-service
                             servicePort: 30201
 
-
